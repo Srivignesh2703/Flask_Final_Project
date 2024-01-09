@@ -1,0 +1,23 @@
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: normal;
+    color: rgb(100,100,100);
+}
+
+.about-us {
+    color: blue;
+    font-family: Verdana;
+}
+
+#banner {
+    width: 100%;
+    height : 420px;
+    object-fit: cover;
+}
+
+.container{
+    max-width: 1000px;
+    margin: 0 auto 0 auto;
+}
