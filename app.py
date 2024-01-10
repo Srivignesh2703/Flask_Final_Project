@@ -12,7 +12,7 @@ Jobs = [
     {
         "id": 2,
         "job_profile": "Full Stack Developer",
-        "location": "Banglore, India",
+        "location": "Bangalore, India",
         "salary": "10,00,000"
     },
     {
@@ -36,4 +36,3 @@ def all_jobs():
 
 if __name__ == "__main__":
     app.run(debug=True)
-
